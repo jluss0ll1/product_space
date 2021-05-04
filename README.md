@@ -1,0 +1,5 @@
+# Espaço de Produtos para os municípios brasileiros em 2019
+
+<p style="text-align: justify;">Espaço de Produtos é uma metologia que dispõe os produtos exportados por uma economia em uma rede, ligando os setores que costumam andar juntos. Setores andam juntos porque produzem sinergia um com os outros, bem como possuem maior probabilidade de compartilhar fatores de produção similares para produzí-los. Por exemplo, camisas e calças requerem um conjunto muito próximo de insumos e habilidades para co-exportá-los, enquanto camisas e carros são completamente distintos. Tal ferramente pode fornecer insights sobre uma economia, como um país, estado ou mesmo município, ao permitir identificar potenciais sinergias e ganhos de oportunidade para serem exploradas.
+
+A rede de produtos abaixo foi construída com base nos dados disponibilizados pela Secretaria de Comércio Exterior (SECEX). A base de dados contém o histórico de produtos exportados pelos municípios brasileiros, e conecta os diversos produtos exportados conforme a probabilidade de serem co-exportados, revelando o nível de sofisticação da economia brasileira.</p>
